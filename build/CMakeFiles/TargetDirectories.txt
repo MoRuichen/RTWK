@@ -1,0 +1,3 @@
+C:/Users/moruichen/Desktop/raytrace/build/CMakeFiles/raytracer.dir
+C:/Users/moruichen/Desktop/raytrace/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/moruichen/Desktop/raytrace/build/CMakeFiles/ZERO_CHECK.dir
